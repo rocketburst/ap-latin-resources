@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "ap-latin-resources",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Resources to ace AP Latin",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/rocketburst/ap-latin-resources.git"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "Rayan Kazi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/rocketburst/ap-latin-resources/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/rocketburst/ap-latin-resources#readme",
   "dependencies": {
     "clsx": "^1.2.1",
     "next": "^13.0.6",
