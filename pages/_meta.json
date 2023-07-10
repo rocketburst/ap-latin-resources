@@ -1,7 +1,16 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "req-read": "Required Readings",
+  "-- Caesar": {
+    "type": "separator",
+    "title": "Caesar"
+  },
+  "caesar-intro": "Intro to Caesar's DBG",
+  "-- Aeneid": {
+    "type": "separator",
+    "title": "Aeneid"
+  },
+  "aeneid-intro": "Intro to Virgil's Aeneid",
   "about": {
     "title": "About",
     "type": "page"
